@@ -1,0 +1,17 @@
+.category {
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+.sidebar-label-container {
+  padding: 0.2rem 1rem;
+}
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.3rem;
+}
+.item > label {
+  font-size: small;
+  color: gray;
+}
